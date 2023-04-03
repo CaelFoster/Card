@@ -1,6 +1,32 @@
 body{
-    background:blanchedalmond;
+    background:black;
+    display: grid;
+    justify-content: center;   
+    
 }
+.card{
+    background:#FFE5C7;
+    color:black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+    text-align: center;
+    align-content:space-between;
+}
+
+.card img{
+    width: 94px;
+    height: 89px;
+}
+
+
+
+
+
+
 
 a:link{
     color: black;
